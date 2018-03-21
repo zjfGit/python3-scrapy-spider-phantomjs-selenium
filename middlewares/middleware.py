@@ -46,8 +46,8 @@ class JavaScriptMiddleware(object):
         # driver = webdriver.Chrome(chromedriver)
 
         # 模拟登陆
-        # driver.find_element_by_class_name("input_id").send_keys("1240568414")
-        # driver.find_element_by_class_name("input_pwd").send_keys("zjf19951016@")
+        # driver.find_element_by_class_name("input_id").send_keys("34563453")
+        # driver.find_element_by_class_name("input_pwd").send_keys("zjf%#￥&")
         # driver.find_element_by_class_name("btn btn_lightgreen btn_login").click()
         # driver.implicitly_wait(15)
         # time.sleep(10)
